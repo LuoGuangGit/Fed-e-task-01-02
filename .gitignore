@@ -1,2 +1,3 @@
 # ignore directories
 backup/
+node_modules/
